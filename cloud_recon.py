@@ -2,7 +2,7 @@
 """
 CloudRecon - Automated Cloud Asset Recon Tool
 For authorized penetration testing and bug bounty only.
-Author: cyberspire56
+Author: CyberSpire
 """
 
 import sys
